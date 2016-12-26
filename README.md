@@ -1,7 +1,8 @@
 # Boilerplate
 
     Purpost for web app development with react
-    Webpack pxtorem with postcss [100px -- 1rem]
+    Webpack pxtorem with postcss [50px -- 1rem]
+    px@2 double
 
 ## Features
 
