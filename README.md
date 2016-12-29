@@ -1,6 +1,6 @@
 # Boilerplate
 
-    Purpost for web app development with react
+    Purpose for web app development with react
     Webpack pxtorem with postcss [50px -- 1rem]
     px@2 double
 
